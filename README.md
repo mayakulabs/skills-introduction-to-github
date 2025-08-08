@@ -25,7 +25,7 @@ Mayaku Labs
 |     3| CSS       |
 
 
-<details>
+<details open>
 <summary>My top THINGS-TO-RANK</summary>
 
 YOUR TABLE
