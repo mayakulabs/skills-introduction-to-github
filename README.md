@@ -13,9 +13,9 @@ Mayaku Labs
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|  test             |
+|     2|    test           |
+|     3|    test           |
 
 
 | Rank | Languages |
@@ -23,3 +23,11 @@ Mayaku Labs
 |     1| JavaScript|
 |     2| HTML      |
 |     3| CSS       |
+
+
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
