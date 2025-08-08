@@ -15,9 +15,9 @@ Mayaku Labs
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|  test             |
-|     2|    test           |
-|     3|    test           |
+|     1|  test         |
+|     2|    test       |
+|     3|    test       |
 
 
 | Rank | Languages |
