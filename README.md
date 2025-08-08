@@ -8,7 +8,7 @@
 
 ## About me
 
-<!--COMMENT -->
+<!-- TO DO: add more details about me later -->
 
 Mayaku Labs
 
